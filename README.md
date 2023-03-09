@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lao (here @laotsetung)
 - Trabalhei na área da informatica na decada de 2000
 - - Primeiro na manutenção de computadores.
-- - Desenvolvimento WEB (No maior projeto em PHP/MySQL)
+- - Desenvolvimento WEB (No maior projeto em PHP/MySQL/JavaScript/Servidor Linux)
 - 
 - Porém, fiquei ausente da área de TI na decada de 2010.. e agora voltei a estudar e estou PROCURANDO TRABALHO.
 -
